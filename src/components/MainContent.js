@@ -1,5 +1,10 @@
 import Card from './Card'
 import ImageOne from '../images/judeusSamson.png'
+import ImageTwo from '../images/samson.png'
+import ImageThree from '../images/judeusCute.png'
+import ImageFour from '../images/judeusFashion.png'
+import ImageFive from '../images/samsonGuy.png'
+import ImageSix from '../images/judeusGuy.png'
 
 const MainContent = () => {
     const cards = [
@@ -9,27 +14,27 @@ const MainContent = () => {
             amount: '$239.00'
         },
         {
-            img: ImageOne,
+            img: ImageTwo,
             name: 'Adela Top',
             amount: '$239.00'
         },
         {
-            img: ImageOne,
+            img: ImageThree,
             name: 'Adela Top',
             amount: '$239.00'
         },
         {
-            img: ImageOne,
+            img: ImageFour,
             name: 'Adela Top',
             amount: '$239.00'
         },
         {
-            img: ImageOne,
+            img: ImageFive,
             name: 'Adela Top',
             amount: '$239.00'
         },
         {
-            img: ImageOne,
+            img: ImageSix,
             name: 'Adela Top',
             amount: '$239.00'
         }
