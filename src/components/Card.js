@@ -1,4 +1,3 @@
-// import judeusSamson from '../images/judeusSamson.png'
 import cart from '../images/cart.png'
 import heart from '../images/heart.png'
 
